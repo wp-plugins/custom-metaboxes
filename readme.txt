@@ -11,6 +11,8 @@ Create both custom metaboxes and post types for your wordpress application.
 == Description ==
 Using this plugin will allow you to create entirely new sections in your wordpress application quick. With this plugin you can create new fields for your current post types such as the pages section or posts section. You can also create new sections along with new fields for those sections.
 
+Hint: To group multiple fields under the same metabox, just use the same name for each of the fields in the group field.
+
 The steps are:
 
 1. Activate Plugin
