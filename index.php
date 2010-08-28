@@ -3,7 +3,7 @@
  * Plugin Name: FJP Custom Metaboxes
  * Plugin URI: http://www.frankperez.net/
  * Description: Easily create custom metaboxes/custom fields for your wordpress application.
- * Version: 1.0
+ * Version: 1.0.1
  * Author: Frank Perez
  * Author URI: http://www.frankperez.net/
  *
@@ -36,7 +36,7 @@ if( !defined('WP_LANG_DIR') )
 // END PRE 2.6 Compatibility
 
 // Defines the constant for the current plugin
-define('FJP_CUSTOM_META_DIR', WP_PLUGIN_DIR . '/fjp-custom-metaboxes');
+define('FJP_CUSTOM_META_DIR', WP_PLUGIN_DIR . '/custom-metaboxes');
 
 require_once(FJP_CUSTOM_META_DIR . '/functions.inc.php');
 require_once(FJP_CUSTOM_META_DIR . '/functions.display.php');

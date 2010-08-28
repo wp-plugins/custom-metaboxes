@@ -1,10 +1,10 @@
 === Plugin Name ===
 Contributors: frankperez87
 Donate link: http://www.frankperez.net/
-Tags: custom meta boxes, meta boxes, custom fields
+Tags: custom metaboxes, custom post types, custom meta boxes, meta boxes, custom fields
 Requires at least: 3.0
 Tested up to: 3.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 Create both custom metaboxes and post types for your wordpress application.
 
@@ -21,7 +21,7 @@ The steps are:
 
 == Installation ==
 
-1. Upload `fjp-custom-metaboxes` folder to the `/wp-content/plugins/` directory
+1. Upload `custom-metaboxes` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
@@ -48,6 +48,8 @@ So far I have only tested in version 3.0+
 
 = 1.0 =
 * First Release
+= 1.0.1 =
+* Minor Change to Include Setting
 
 == Upgrade Notice ==
 
